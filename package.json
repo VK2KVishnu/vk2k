@@ -1,0 +1,14 @@
+{
+  "name": "discord.js-sample-bot-master",
+  "version": "1.0.0",
+  "description": "A Discord bot made by the VizuDev team for making the coding experience easier for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vip3r",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
